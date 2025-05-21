@@ -1,0 +1,1 @@
+On suppose que, pour un même mois, les prix ne changent pas d'année en année.
